@@ -56,7 +56,7 @@ Packages: pandas, numpy, keras, tensorflow, flask, json, html.</description>
     <item>
       <title>Project 5: Restaurant review analysis through Natural Language Processing</title>
       <link>https://safooranaureen.github.io/Portfolio/post/project-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      <pubDate>Thu, 13 Apr 2020 11:15:58 -0400</pubDate>
       
       <guid>https://safooranaureen.github.io/Portfolio/post/project-5/</guid>
       <description>This project aims to do a sentiment analysis of the reviews of customers who visited a the restaurant using Natural Language Processing and Bag of Words for feature extraction.
